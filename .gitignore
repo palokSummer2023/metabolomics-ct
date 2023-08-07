@@ -1,0 +1,11 @@
+data
+env
+.ipynb_checkpoints
+generated/*
+plots
+*.npy
+*.kate-swp
+__pycache__/
+penv/
+.DS_Store
+!generated/convexities.pdf
